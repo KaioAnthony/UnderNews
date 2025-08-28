@@ -1,11 +1,3 @@
-body{
-    background-image: url(/images/fundo_imagem.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    height: 100%;
-    background-color: rgb(3, 8, 21,255);
-}
 
 html{
     height: 100%;
