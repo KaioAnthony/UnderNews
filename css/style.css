@@ -140,9 +140,32 @@ a:hover{
     color: yellow;
 }
 
+#table-01{
+    width: 0px;
+}
 
 
 
 
 
+@media screen and (max-width: 768px) {
+    h2 {
+      font-size: 30px;
+    }
 
+    header {
+        margin: auto;
+    }
+    section{
+        text-align: center;
+    }
+    aside {
+    }
+    article{
+        margin: auto;
+    }
+    footer {
+       width: 1000px;
+       margin: auto;
+    }
+}
