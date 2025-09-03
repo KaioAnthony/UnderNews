@@ -247,21 +247,4 @@ a:hover{
     .texto{
         font-size: 30px;
     }
-    .texto2{
-        font-size: 30px;
-        position: relative;
-        left: 35px;
-    }
-    #img-02{
-            float: center;
-            margin-right: 0px;
-            width: 400px;
-            height: 300px;
-            border-radius: 25px;
-            border-style: solid;
-            border-color: white;
-            position: relative;
-            margin-left: 125px;
-            left: -35px;
-        }
 }
